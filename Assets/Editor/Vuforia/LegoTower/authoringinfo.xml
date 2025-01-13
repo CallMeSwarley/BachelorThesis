@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.5.5">
+<ModelTarget name="LegoTower" targetId="5d70831cf81c4fc982c128a4141d0769" version="14.0" toolVersion="10.5.5" bbox="-0.161350 -0.154799 0.004010 0.052467 0.049266 0.218875" previewImage="5d70831cf81c4fc982c128a4141d0769_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="LegoTowers_assembly" assemblyId="275406f4adc247b08ef60ef7be2d94cb">
+<Part name="LegoTower" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="0.0271761 -0.00647426 0.243921" rotation="AD: 0.44982 -0.959589 2.72711 186.193" image="" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

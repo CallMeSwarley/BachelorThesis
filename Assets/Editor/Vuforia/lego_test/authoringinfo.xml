@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="33.0" toolVersion="v5.1.0-24-g2795492">
+        <ModelTarget name="lego_test" targetId="9b7286d4f1e347738a06ce33851a7572" version="11.1" toolVersion="v5.1.0-24-g2795492" bbox="-0.840965 -0.755265 -1.701774 0.840965 0.755265 1.701774" trackingMode="scan" upVector="0.0 1.0 0.0" />
+    </TargetSet>
+    <Assembly name="lego_test" assemblyId="1f52c88fae174247a18e36a7c4fb0dfa">
+        <Part name="lego_test" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
