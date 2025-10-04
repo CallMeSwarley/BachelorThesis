@@ -1,4 +1,4 @@
-# Code for my Bachelor's Thesis:
+# Code for my Bachelor's Thesis
 
 **"Communication Interfaces for Distributed Augmented Reality Applications in Industrial Contexts"**
 
@@ -38,3 +38,19 @@ The project demonstrates potential applications in industries such as **healthca
 - **Integration with AR Technology**: Utilizes Vuforia for tracking and augmented visualization.
 
 ---
+
+## Thesis and Presentation Documents
+
+The written thesis and the colloquium presentation slides are located in the [`/Thesis_Documents`](./Thesis_Documents) folder.
+
+Contents:
+- `Bachelorthesis.pdf` – Final thesis document.  
+- `Final-Presentation.pdf` – Slides from the colloquium presentation.
+
+---
+
+## Author
+
+Maximilian Alexander Amougou Mbida
+
+Technical University Munich / School of Computation, Information and Technology
