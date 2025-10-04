@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="TUM Logo" width="200"/>
+</p>
+
 # Code for my Bachelor's Thesis
 
 **"Communication Interfaces for Distributed Augmented Reality Applications in Industrial Contexts"**
