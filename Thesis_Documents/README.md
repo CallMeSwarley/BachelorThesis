@@ -10,5 +10,6 @@ This folder contains the written thesis and the presentation slides used for the
 April 2023
 
 ## Author
-Maximilian Alexander Amougou Mbida 
+Maximilian Alexander Amougou Mbida
+
 Technical University Munich / School of Computation, Information and Technology
